@@ -1,0 +1,33 @@
+.col-sm-3{
+   color: black;
+   font-weight:bolder;
+   font-size: 16px;
+   
+}
+
+#Form { margin-left:270px;
+}
+
+#Table { margin-left:400px;
+   margin-top:100px;
+color:rgb(49, 37, 37);
+padding: 40;
+font-size: 20px;}
+
+table tbody td {
+   padding-left: 7.5px;
+   padding-right: 7.5px;
+   background-color: red;
+   height: 40px;
+   border: 1px solid green;
+   width: 25%;
+ }
+
+ table tbody tr th{
+   padding-left: 7.5px;
+   padding-right: 7.5px;
+   background-color: rgb(196, 169, 169);
+   height: 40px;
+   border: 1px solid rgb(216, 243, 216);
+   width: 25%;
+ }
